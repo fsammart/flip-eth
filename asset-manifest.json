@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flip-eth/static/css/main.073c9b0a.css",
+    "main.js": "/flip-eth/static/js/main.2d134539.js",
+    "static/js/787.3a14e63e.chunk.js": "/flip-eth/static/js/787.3a14e63e.chunk.js",
+    "index.html": "/flip-eth/index.html",
+    "main.073c9b0a.css.map": "/flip-eth/static/css/main.073c9b0a.css.map",
+    "main.2d134539.js.map": "/flip-eth/static/js/main.2d134539.js.map",
+    "787.3a14e63e.chunk.js.map": "/flip-eth/static/js/787.3a14e63e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2d134539.js"
+  ]
+}
